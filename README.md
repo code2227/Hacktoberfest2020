@@ -2,3 +2,10 @@
 #hacktoberfest2020.
 Add your name here after contributing to this repo!..
 
+
+
+
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nimisha-Singh.Hacktoberfest2020)
